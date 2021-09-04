@@ -189,13 +189,13 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 ## PDF Bots
 
-- [PDF BOT](https://t.me/EK_PDF_BOT): A Image To PDF Converter Bot
+- [EK_PDF_BOT](https://t.me/EK_PDF_BOT): A Image To PDF Converter Bot
 
 ---
 
 ## Font Bots
 
-- [Font Generator Bot](https://t.me/EK_Font_Gen_Bot): Bot Will Generate Awesome Fonts For Your Texts.
+- [EK_Font_Gen_Bot](https://t.me/EK_Font_Gen_Bot): Bot Will Generate Awesome Fonts For Your Texts.
 
 ---
 
