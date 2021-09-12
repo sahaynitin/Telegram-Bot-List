@@ -32,7 +32,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 - [FnURLUploadBot](https://telegram.me/FnURLUploadBot): A url upload to telegram files or media with permanent thumbnail support
 - [UrlUploader_XBot](https://t.me/UrlUploader_XBot)
 - [Uploadbot](https://telegram.me/UploadBot)
-- [URLUploaderRexBot](https://telegram.me/URLUploaderRexBot]
+- [URLUploaderRexBot](https://telegram.dog/URLUploaderRexBot)
 
 ---
 
