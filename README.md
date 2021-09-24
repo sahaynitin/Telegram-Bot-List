@@ -144,7 +144,7 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [EK_Font_Gen_Bot](https://t.me/EK_Font_Gen_Bot): Bot Will Generate Awesome Fonts For Your Texts.
 
-## Vc Video Stermer Bots
+## Voice Chat Video Streamer Bots
 
 - [YuiVidioPlayer](https://t.me/Yuividioplayerbot): A advanced Anime Theme VC Video Player created for playing vidio in the voice chats of Telegram Groups.
 
