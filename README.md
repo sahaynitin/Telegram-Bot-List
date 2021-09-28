@@ -45,14 +45,14 @@ A telegram bot list collection
 
 ---
 
-## Converter Bots
+### Converter Bots
 
 | Bot | Description |
 |---|---|
 | [FnConvertBot](https://telegram.me/FnConvertBot) | Telegram file or media converter with permanent thumbnail saving support |
 | [Converter_ProBot](https://t.me/Converter_ProBot) | A Telegram Bot To Convert File To Video And Video To File With Custum Thumbnail Support |
 
-## Rename Bots
+### Rename Bots
 
 | Bot | Description |
 |---|---|
@@ -68,7 +68,7 @@ A telegram bot list collection
 | [Rename_Ek_Bot](https://t.me/Rename_Ek_Bot) | Rename + Convert With Permanent Thumbnail Support |
 | [Renameravbot](https://t.me/RenamerAVbot) | Rename, Convert, Custom Caption with Permanent Thumbnail Support |
 
-## URL Uploaders
+### URL Uploaders
 
 | Bot | Description |
 |---|---|
@@ -77,14 +77,14 @@ A telegram bot list collection
 | [Uploadbot](https://telegram.me/UploadBot) | |
 | [URLUploaderRexBot](https://telegram.me/URLUploaderRexBot) | |
 
-## QR Code Bots
+### QR Code Bots
 
 | Bot | Description |
 |---|---|
 | [FnQRCodeBot](https://telegram.me/FnQRCodeBot) | A QR Code encoder and decoder telegram bot |
 | [Qr_ek_bot](https://telegram.me/Qr_ek_bot) | A Simple QR-Code Generator & Scanner Bot |
 
-## Telegraph Uploaders
+### Telegraph Uploaders
 
 | Bot | Description |
 |---|---|
@@ -92,20 +92,20 @@ A telegram bot list collection
 | [Tele_ek_bot](https://telegram.me/Tele_ek_bot) | Photo,gif,video uploader to telegra.ph |
 | [AVTelegraphBot](https://t.me/AVTelegraphBot) | Image, Gif, Video uploader to telegra.ph |
 
-## Image Editor Bots
+### Image Editor Bots
 
 | Bot | Description |
 |---|---|
 | [FnImageEditBot](https://telegram.me/FnImageEditBot) | An image editor telegram bot supported various modes |
 | [ImageEditAVBot](https://t.me/ImageEditAVBot) | |
 
-## Video Extractor Bots
+### Video Extractor Bots
 
 | Bot | Description |
 |---|---|
 | [FnExtractBot](https://telegram.me/FnExtractBot) | Audio or subtitle extractor from a telegram video |
 
-## Store Bots
+### Store Bots
 
 | Bot | Description |
 |---|---|
@@ -113,83 +113,83 @@ A telegram bot list collection
 | [StoracheBot](https://telegram.me/StoracheBot) | |
 | [FileStoreAVBot](https://t.me/FileStoreAVBot) | |
 
-## Attach Bots
+### Attach Bots
 
 | Bot | Description |
 |---|---|
 | [FnAttachBot](https://telegram.me/FnAttachBot) | A link in a message attach telegram bot |
 
-## Forward Tag Remover Bots
+### Forward Tag Remover Bots
 
 | Bot | Description |
 |---|---|
 | [AnonymizeAVBot](https://t.me/AnonymizeAVBot) | To Remove Forwarded Tags in Private as well as in group chats. |
 | [ForwarderAVBot](https://t.me/ForwarderAVBot) | To Remove Forwarded Tags directly from the channels with many extra features. |
 
-## Country Info Bots
+### Country Info Bots
 
 | Bot | Description |
 |---|---|
 | [FnCountryInfoBot](https://telegram.me/FnCountryInfoBot) | A country information finder telegram bot |
 | [Ek_Country_Bot](https://t.me/Ek_Country_Bot) | A Bot That Can Help You To Find Information About Countries. |
 
-## Stream Bots
+### Stream Bots
 
 | Bot | Description |
 |---|---|
 | [FnStreamBot](https://telegram.me/FnStreamBot) | A file or media to instant download link telegram bot |
 
-## URL Shortners
+### URL Shortners
 
 | Bot | Description |
 |---|---|
 | [FnURLShortBot](https://telegram.me/FnURLShortBot) | A link shortner telegram bot |
 | [EK_Link_Short_Bot](https://telegram.me/EK_Link_Short_Bot) | A Bot That Can Shorts Links To da.gd |
 
-## Watermark Bots
+### Watermark Bots
 
 | Bot | Description |
 |---|---|
 | [FnWatermarkBot](https://telegram.me/FnWatermarkBot) | Watermark in a video added telegram bot |
 
-## Movie Bots
+### Movie Bots
 
 | Bot | Description |
 |---|---|
 | [FnMovieBot](https://telegram.me/FnMovieBot) | A movie information finder telegram bot |
 
-## Translator Bots
+### Translator Bots
 
 | Bot | Description |
 |---|---|
 | [FnTranslateBot](https://telegram.me/FnTranslateBot) | A language translator telegram bot |
 
-## AI Bots
+### AI Bots
 
 | Bot | Description |
 |---|---|
 | [ErzaChat_bot](https://telegram.me/ErzaChat_bot) | |
 | [NAZRIYAAIBOT](https://telegram.me/NAZRIYAAIBOT) | An AI chat bot on Telegram supported language English only. |
 
-## Video Merger Bots
+### Video Merger Bots
 
 | Bot | Description |
 |---|---|
 | [VideoMergeAVBot](https://t.me/VideoMergeAVBot) | |
 
-## Video Compress Bots
+### Video Compress Bots
 
 | Bot | Description |
 |---|---|
 | [VideoCompressProBot](https://t.me/VideoCompressProBot) | |
 
-## Zee5 Bots
+### Zee5 Bots
 
 | Bot | Description |
 |---|---|
 | [Zee5_DownloaderBot](https://t.ME/Zee5_DownloaderBot) | |
 
-## YouTube Video Downloader Bots
+### YouTube Video Downloader Bots
 
 | Bot | Description |
 |---|---|
@@ -198,51 +198,51 @@ A telegram bot list collection
 | [Utube_downloadbot](https://telegram.me/Utube_downloadbot) | A youtube downloader bot |
 | [EK_YouTube_DL_Bot](https://t.me/EK_YouTube_DL_Bot) | A Bot That Helps You To Download YouTube Videos |
 
-## Session String Bots
+### Session String Bots
 
 | Bot | Description |
 |---|---|
 | [SessionStringGenBot](https://t.me/SessionStringGenBoT) | |
 
-## Song Bots
+### Song Bots
 
 | Bot | Description |
 |---|---|
 | [Song_Downloader_RoBot](https://t.me/Song_Downloader_RoBot) | |
 
-## Force Subscribe Bots
+### Force Subscribe Bots
 
 | Bot | Description |
 |---|---|
 | [MwK Force Promoter](https://t.me/mwk_promoterbot) | |
 
-## Study Material Bots
+### Study Material Bots
 
 | Bot | Description |
 |---|---|
 | [MhtCetMaterialsBot](https://t.me/MhtCetMaterialsBot) | |
 | [LibrarianOfficialNotesBot](https://t.me/LibrarianOfficialNotesBot) | |
 
-## Channel Utilities Bots
+### Channel Utilities Bots
 
 | Bot | Description |
 |---|---|
 | [chnlidbot](https://t.me/chnlidbot) | To get channel ID of channels |
 | [Footer_Bot](https://t.me/Footer_Bot) | To add footer text in channel posts |
 
-## PDF Bots
+### PDF Bots
 
 | Bot | Description |
 |---|---|
 | [EK_PDF_BOT](https://t.me/EK_PDF_BOT) | A Image To PDF Converter Bot |
 
-## Font Bots
+### Font Bots
 
 | Bot | Description |
 |---|---|
 | [EK_Font_Gen_Bot](https://t.me/EK_Font_Gen_Bot) | Bot Will Generate Awesome Fonts For Your Texts. |
 
-## Voice Chat Video Streamer Bots
+### Voice Chat Video Streamer Bots
 
 | Bot | Description |
 |---|---|
