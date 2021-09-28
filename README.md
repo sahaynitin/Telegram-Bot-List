@@ -2,6 +2,8 @@
 
 A telegram bot list collection
 
+---
+
 - Please add your [pull request](https://github.com/FayasNoushad/Telegram-Bot-List/pulls) or [issues](https://github.com/FayasNoushad/Telegram-Bot-List/issues) for adding bots with description
 - Please tell me your ideas in [discussion](https://github.com/FayasNoushad/Telegram-Bot-List/discussions)
 - Please suggest or report bots in [issues](https://github.com/FayasNoushad/Telegram-Bot-List/issues)
