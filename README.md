@@ -42,7 +42,7 @@ A telegram bot list collection
 - [PDF Bots](#pdf-bots)
 - [Font Bots](#font-bots)
 - [Voice Chat Video Streamer Bots](#voice-chat-video-streamer-bots)
-
+- [Telly Url Uploader bot(#For Downloading Url)] 
 ---
 
 ### Converter Bots
@@ -76,7 +76,7 @@ A telegram bot list collection
 | [UrlUploader_XBot](https://t.me/UrlUploader_XBot) | |
 | [Uploadbot](https://telegram.me/UploadBot) | |
 | [URLUploaderRexBot](https://telegram.me/URLUploaderRexBot) | |
-
+| [Tellyurluploaderv5](https://telegram.me/tellyurluploaderbot4u_bot
 ### QR Code Bots
 
 | Bot | Description |
