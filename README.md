@@ -169,6 +169,7 @@ A telegram bot list collection
 | Bot | Description |
 |---|---|
 | [ErzaChat_bot](https://telegram.me/ErzaChat_bot) | |
+| [NAZRIYAAIBOT](https://telegram.me/NAZRIYAAIBOT) | An AI chat bot on Telegram supported language English only. |
 
 ## Video Merger Bots
 
