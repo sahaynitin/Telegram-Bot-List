@@ -11,6 +11,40 @@ A telegram bot list collection
 
 ---
 
+## Table of Contents
+
+- [Converter Bots](#converter-bots)
+- [Rename Bots](#rename-bots)
+- [URL Uploaders](#url-uploaders)
+- [QR Code Bots](#qr-code-bots)
+- [Telegraph Uploaders](#telegraph-uploaders)
+- [Image Editor Bots](#image-editor-bots)
+- [Video Extractor Bots](#video-extractor-bots)
+- [Store Bots](#store-bots)
+- [Attach Bots](#attach-bots)
+- [Forward Tag Remover Bots](#forward-tag-remover-bots)
+- [Country Info Bots](#country-info-bots)
+- [Stream Bots](#stream-bots)
+- [URL Shortners](#url-shortners)
+- [Watermark Bots](#watermark-bots)
+- [Movie Bots ](#movie-bots)
+- [Translator Bots ](#translator-bots)
+- [AI Bots](#ai-bots)
+- [Video Merger Bots](#video-merger-bots)
+- [Video Compress Bot](#video-compress-bots)
+- [Zee5 Bots](#zee5-bots)
+- [YouTube Bot](#youtube-video-downloader-bots)
+- [Session String Bot](#session-string-bots)
+- [Song Bot](#song-bots)
+- [Force Sub Bot](#force-subscribe-bots)
+- [Study Material Bots](#study-material-bots)
+- [Channel Utilities Bots](#channel-utilities-bots)
+- [PDF Bots](#pdf-bots)
+- [Font Bots](#font-bots)
+- [Voice Chat Video Streamer Bots](#voice-chat-video-streamer-bots)
+
+---
+
 ## Converter Bots
 
 | Bot | Description |
@@ -113,13 +147,13 @@ A telegram bot list collection
 |---|---|
 | [FnWatermarkBot](https://telegram.me/FnWatermarkBot) | Watermark in a video added telegram bot |
 
-## Movie Bots 
+## Movie Bots
 
 | Bot | Description |
 |---|---|
 | [FnMovieBot](https://telegram.me/FnMovieBot) | A movie information finder telegram bot |
 
-## Translator Bots 
+## Translator Bots
 
 | Bot | Description |
 |---|---|
@@ -137,7 +171,7 @@ A telegram bot list collection
 |---|---|
 | [VideoMergeAVBot](https://t.me/VideoMergeAVBot) | |
 
-## Video Compress Bot
+## Video Compress Bots
 
 | Bot | Description |
 |---|---|
@@ -149,7 +183,7 @@ A telegram bot list collection
 |---|---|
 | [Zee5_DownloaderBot](https://t.ME/Zee5_DownloaderBot) | |
 
-## YouTube Bot
+## YouTube Video Downloader Bots
 
 | Bot | Description |
 |---|---|
@@ -158,19 +192,19 @@ A telegram bot list collection
 | [Utube_downloadbot](https://telegram.me/Utube_downloadbot) | A youtube downloader bot |
 | [EK_YouTube_DL_Bot](https://t.me/EK_YouTube_DL_Bot) | A Bot That Helps You To Download YouTube Videos |
 
-## Session String Bot
+## Session String Bots
 
 | Bot | Description |
 |---|---|
 | [SessionStringGenBot](https://t.me/SessionStringGenBoT) | |
 
-## Song Bot
+## Song Bots
 
 | Bot | Description |
 |---|---|
 | [Song_Downloader_RoBot](https://t.me/Song_Downloader_RoBot) | |
 
-## Force Sub Bot
+## Force Subscribe Bots
 
 | Bot | Description |
 |---|---|
