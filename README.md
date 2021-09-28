@@ -76,7 +76,7 @@ A telegram bot list collection
 | [UrlUploader_XBot](https://t.me/UrlUploader_XBot) | |
 | [Uploadbot](https://telegram.me/UploadBot) | |
 | [URLUploaderRexBot](https://telegram.me/URLUploaderRexBot) | |
-| [Telly Url Uploader](https://telegram.me/tellyurluploaderbot4u_bot) | |
+| [Telly Url Uploader](https://telegram.me/tellyurluploaderbot4u_bot) | A url uploader bot to upload url link with permanent thumbnail support |
 ### QR Code Bots
 
 | Bot | Description |
